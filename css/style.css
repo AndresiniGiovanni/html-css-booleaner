@@ -1,0 +1,50 @@
+#logo {
+  width: 20%;
+  padding-top: 30px;
+}
+
+.pattern {
+  width: 400px;
+}
+
+.container {
+  width: 100%;
+  background-color: deepskyblue;
+  color: white;
+  height: 20px;
+}
+
+.seconda-riga {
+  background-color: lightblue;
+  height: 30px;
+  padding-top: 10px;
+}
+.terza-riga {
+  padding-top: 15px;
+  height: 30px;
+}
+.quarta-riga {
+  background-color: lightblue;
+  height: 30px;
+  padding-top: 15px;
+}
+.testo-sinistra {
+  width: 10%;
+  display: inline-block;
+}
+
+.testo-destra {
+  display: inline-block;
+
+  width: 20%;
+}
+
+.tasto-lorem {
+  width: 15%;
+  display: inline-block;
+  text-align: center;
+}
+
+.potrebbero-interessarti {
+  color: grey;
+}
