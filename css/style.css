@@ -7,7 +7,7 @@
   width: 400px;
 }
 
-.container {
+.prima-riga {
   width: 100%;
   background-color: deepskyblue;
   color: white;
@@ -35,7 +35,6 @@
 
 .testo-destra {
   display: inline-block;
-
   width: 20%;
 }
 
