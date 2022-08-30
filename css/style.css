@@ -1,3 +1,9 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
 #logo {
   width: 10%;
   padding-top: 30px;
@@ -12,7 +18,9 @@ header {
 #the-booleaners {
   color: blue;
 }
-
+.lista {
+  margin-left: 20px;
+}
 .prima-riga {
   width: 100%;
   background-color: deepskyblue;
